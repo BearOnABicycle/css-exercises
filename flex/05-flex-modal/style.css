@@ -29,14 +29,13 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  font-size: 1.25rem;
+  font-size: 18px;
   font-weight: 700;
-  margin-bottom: 8pxl;
+  margin-bottom: 8px;
 }
 
-.container{
-  display: flex;
-  flex-direction: column;
+.text {
+  margin-bottom: 16px;
 }
 
 .icon {
