@@ -1,1 +1,7 @@
-/* Add CSS Styling */
+.pink-background {
+    background-color: rgb(243, 112, 212);
+}
+
+.verdana-font {
+    font-family: verdana, deja vu sans, sans-serif;
+}
