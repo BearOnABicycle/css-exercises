@@ -5,3 +5,9 @@
 .verdana-font {
     font-family: verdana, deja vu sans, sans-serif;
 }
+
+#div-one {
+    color: blue;
+    font-size: 32px;
+}
+
