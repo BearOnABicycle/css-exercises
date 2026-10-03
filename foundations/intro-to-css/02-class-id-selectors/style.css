@@ -11,6 +11,12 @@
     font-size: 32px;
 }
 
+#div-two {
+    background-color: rgb(65, 250, 80);
+    font-size: 24px;
+    font-weight: bold;
+}
+
 #large-font {
     font-size: 24px;
 }
